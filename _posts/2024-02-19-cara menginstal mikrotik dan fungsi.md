@@ -29,3 +29,26 @@ Berikut adalah panduan umum untuk menginstal MikroTik RouterOS:
 10.	Dokumentasi:
     •	Selalu dokumentasikan konfigurasi dan perubahan yang Anda lakukan pada router untuk referensi di masa depan.
 
+
+Berikut adalah beberapa fungsi umum dari perangkat MikroTik:
+
+1. Routing: MikroTik dapat digunakan sebagai router untuk mengarahkan lalu lintas data antar jaringan, baik jaringan lokal maupun jaringan eksternal. Ini termasuk kemampuan untuk menerapkan routing static dan dynamic, seperti OSPF dan BGP.
+
+2. Firewall: MikroTik menyediakan fitur firewall yang kuat untuk melindungi jaringan dari ancaman keamanan. Anda dapat mengonfigurasi aturan firewall untuk mengontrol lalu lintas masuk dan keluar.
+
+3. Wireless Access Point: MikroTik memiliki kemampuan untuk berfungsi sebagai access point pada jaringan nirkabel (Wi-Fi). Ini memungkinkan perangkat untuk menyediakan layanan koneksi nirkabel ke perangkat lain.
+
+4. Hotspot Gateway: MikroTik dapat diatur sebagai hotspot gateway, memungkinkan implementasi portal autentikasi untuk pengguna nirkabel atau pengguna yang terhubung melalui jaringan kabel.
+
+5. VPN (Virtual Private Network): RouterOS mendukung berbagai protokol VPN seperti PPTP, L2TP, IPSec, dan OpenVPN. Ini memungkinkan pembentukan koneksi aman antara jaringan atau perangkat yang terpisah geografis.
+
+6. Bandwidth Management: MikroTik dapat digunakan untuk mengelola dan membatasi bandwidth pada jaringan, memastikan distribusi sumber daya jaringan yang adil dan efisien.
+
+7. Proxy Server: RouterOS mendukung fungsi proxy server untuk mempercepat akses internet dan mengurangi penggunaan bandwidth dengan menyimpan cache data.
+
+8. Monitoring dan Logging: MikroTik menyediakan berbagai alat untuk memantau kinerja jaringan, melacak penggunaan bandwidth, dan mencatat log kejadian jaringan.
+
+9. Dynamic Host Configuration Protocol (DHCP): MikroTik dapat berfungsi sebagai server DHCP untuk memberikan konfigurasi otomatis, seperti alamat IP, kepada perangkat di jaringan.
+
+10. DNS (Domain Name System): RouterOS mendukung fungsi DNS untuk menerjemahkan nama domain menjadi alamat IP.
+
